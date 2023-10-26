@@ -1,2 +1,3 @@
-# desafioJsDom
-desafio com Dom Inner.Text e inner.HTML
+# DesafioJsDom
+
+Desafio com Dom Inner.Text e inner.HTML
